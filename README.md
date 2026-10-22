@@ -1,6 +1,6 @@
-# Irony legal
+# Ironpanda legal
 
-Privacy Policy and Terms of Use for the Irony app, served with GitHub Pages:
+Privacy Policy and Terms of Use for the Ironpanda app, served with GitHub Pages:
 
 - Privacy Policy: https://hemalayas.github.io/irony-legal/privacy.html
 - Terms of Use: https://hemalayas.github.io/irony-legal/terms.html
